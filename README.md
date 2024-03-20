@@ -73,7 +73,8 @@
   vi /etc/selinux/config
   SELINUX=disabled
 ```
-<img src="/img/2.png"></img>
+![2](https://github.com/jinho-22/centos-oracle/assets/129517591/3390cd0a-57f1-4d5d-b52c-556b5e60ab68)
+
 
 ## 8. 방화벽 내리기
 ```
@@ -120,24 +121,27 @@
   export LD_LIBRARY_PATH=$ORACLE_HOME/lib:/lib:/usr/lib
   export CLASSPATH=$ORACLE_HOME/jlib:$ORACLE_HOME/rdbms/jlib
 ```
-<img src="/img/3.png"></img>
+![3](https://github.com/jinho-22/centos-oracle/assets/129517591/371b386e-df9a-4f34-822a-689f1c38b469)
+
 
 ## 13. 오라클 패키지 파일로 이동 및 압축풀기
 ```
   cd /home/app/oracle/product/19.3.0/db_1
   unzip LINUX.X64_193000_db_home.zip
 ```
-<img src="/img/4.png"></img>
+![4](https://github.com/jinho-22/centos-oracle/assets/129517591/61ad7f06-ffc7-4e61-adfa-d7b6baa45070)
+
 
 ## 14. 오라클 설치
 ```
   ./runInstaller
 ```
-<img src="/img/5.png"></img>
-<img src="/img/6.png"></img>
-<img src="/img/7.png"></img>
-<img src="/img/8.png"></img>
-<img src="/img/9.png"></img>
+![9](https://github.com/jinho-22/centos-oracle/assets/129517591/25aa3567-ebcb-497e-87a4-6dc867070451)
+![8](https://github.com/jinho-22/centos-oracle/assets/129517591/2a6bafd6-92d2-4583-bb5d-d3067d3fb828)
+![7](https://github.com/jinho-22/centos-oracle/assets/129517591/82b48dbe-2001-4793-82fe-7c0cc9bc08fc)
+![6](https://github.com/jinho-22/centos-oracle/assets/129517591/58008c93-51d9-4592-9774-3bfd1c2c8459)
+![5](https://github.com/jinho-22/centos-oracle/assets/129517591/44330832-aece-418c-9c03-f4fc61bfec49)
+
 
 # 완료~!
 * 참고 자료1 : <https://x486.tistory.com/150#recentComments><br>
