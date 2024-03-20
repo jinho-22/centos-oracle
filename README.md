@@ -136,11 +136,11 @@
 ```
   ./runInstaller
 ```
-![9](https://github.com/jinho-22/centos-oracle/assets/129517591/25aa3567-ebcb-497e-87a4-6dc867070451)
-![8](https://github.com/jinho-22/centos-oracle/assets/129517591/2a6bafd6-92d2-4583-bb5d-d3067d3fb828)
-![7](https://github.com/jinho-22/centos-oracle/assets/129517591/82b48dbe-2001-4793-82fe-7c0cc9bc08fc)
-![6](https://github.com/jinho-22/centos-oracle/assets/129517591/58008c93-51d9-4592-9774-3bfd1c2c8459)
 ![5](https://github.com/jinho-22/centos-oracle/assets/129517591/44330832-aece-418c-9c03-f4fc61bfec49)
+![6](https://github.com/jinho-22/centos-oracle/assets/129517591/ba4598dc-3490-4b1e-89c9-d18cbdaaeeb5)
+![7](https://github.com/jinho-22/centos-oracle/assets/129517591/25a90661-04c6-459b-bbf1-5ee94c40a9d3)
+![8](https://github.com/jinho-22/centos-oracle/assets/129517591/2972ba2c-b33e-4e70-af0b-33c0f8d07b69)
+![9](https://github.com/jinho-22/centos-oracle/assets/129517591/a28a24be-295b-4cb0-a823-3959e0cc9043)
 
 
 # 완료~!
