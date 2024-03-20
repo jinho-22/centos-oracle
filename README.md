@@ -65,7 +65,8 @@
 ```
   passwd oracle
 ```
-<img src="/img/1.png"></img>
+![1](https://github.com/jinho-22/centos-oracle/assets/129517591/5837af28-4a7e-46f4-ab77-4f3a2181776a)
+
 
 ## 7. selinux desabled 설정
 ```
